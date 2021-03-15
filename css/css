@@ -1,0 +1,40 @@
+body {
+	font-family: 'Noto Sans TC', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+	font-family: 'Noto Sans TC', sans-serif;
+	
+}
+
+.subheading {
+	font-family: 'Noto Sans TC', sans-serif;
+	font-size: 1.2rem;
+	font-weight: normal;
+}
+
+h1, h2, h3, h4, h5, h6, .subheading{
+    text-transform: none;
+}
+
+h1, .h1 {
+    font-size: 5rem;
+}
+
+p.lead {
+	font-size: 1.2rem;
+}
+
+.bg-primary {
+	background-color: #0010c2!important;
+	background-image: url(../assets/img/always-grey.png);
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+.text-primary {
+    color: #0010c2!important;
+}
+
+a {
+    color: #0010c2;
+}
