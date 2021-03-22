@@ -26,14 +26,14 @@ p.lead {
 }
 
 .bg-primary {
-	background-color: ##140d0d!important;
+	background-color: #310038!important;
 	background-image: url(../assets/img/back-pattern.png);
 }
 
 .text-primary {
-    color: #140d0d!important;
+    color: #310038!important;
 }
 
 a {
-    color: ##140d0d;
+    color: #310038;
 }
